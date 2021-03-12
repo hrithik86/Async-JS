@@ -1,3 +1,4 @@
+## Ajax
 Ajax stands for Asynchronous JavaScript And XML. Ajax loads the data from the server and updating the parts of a web page selectively without reloading the whole page. 
 
 ### Introduction of AJAX:-
