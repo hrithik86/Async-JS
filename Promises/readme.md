@@ -11,9 +11,10 @@ A promise has three states:
 
 When new Promise is created, the function passed into it runs automatically. It contains the producing code which produces the result. Its arguments resolve and reject. 
 
-See the code
-Function inside then is ran as - resolve()
-Function inside catch is ran as - reject()
+See the code for reference
+> Function inside then is ran as - resolve()
+
+> Function inside catch is ran as - reject()
 
 Promises are the ideal choice for asynchronous programming. Promises can handle multiple asynchronous operations easily and are better at error handling as compared to callbacks and events.
 
